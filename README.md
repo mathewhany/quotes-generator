@@ -54,7 +54,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [x] Install **ESLint** and configure it to use Airbnb style guide.
 - [x] Install **Stylelint** and configure it to use standard config.
 - [x] Install **Prettier** and configure it to work with **ESLint** and **Stylelint**.
-- [ ] Install **Babel** and configure it to work with **React** and compile JS latest features.
+- [x] Install **Babel** and configure it to work with **React** and compile JS latest features.
 - [ ] Install **Webpack** and configure it to use **Babel**, **ESLint**, **Stylelint**.
 - [ ] Install and configure **Webpack Dev Server**.
 - [ ] Add **React** dependencies and make a simple hello world page to test everthing is working.
