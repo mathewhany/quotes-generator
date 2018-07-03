@@ -1,0 +1,8 @@
+{
+  "name": "quotes-generator",
+  "version": "0.1.0",
+  "description": "Generate awesome quotes and share them to Twitter.",
+  "repository": "https://github.com/mathewhany/quotes-generator.git",
+  "author": "Mathew Hany <mathew.hanybb@gmail.com>",
+  "license": "MIT"
+}
