@@ -4,5 +4,12 @@
   "description": "Generate awesome quotes and share them to Twitter.",
   "repository": "https://github.com/mathewhany/quotes-generator.git",
   "author": "Mathew Hany <mathew.hanybb@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^4.19.1",
+    "eslint-config-airbnb": "^17.0.0",
+    "eslint-plugin-import": "^2.13.0",
+    "eslint-plugin-jsx-a11y": "^6.1.0",
+    "eslint-plugin-react": "^7.10.0"
+  }
 }

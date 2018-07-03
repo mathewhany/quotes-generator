@@ -51,7 +51,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [x] Write a `README.md`.
 - [x] Add license information.
 - [x] Create the initial commit and push the project to **GitHub**.
-- [ ] Install **ESLint** and configure it to use Airbnb style guide.
+- [x] Install **ESLint** and configure it to use Airbnb style guide.
 - [ ] Install **Stylelint** and configure it to use standard config.
 - [ ] Install **Prettier** and configure it to work with **ESLint** and **Stylelint**.
 - [ ] Install **Babel** and configure it to work with **React** and compile JS latest features.
